@@ -1,0 +1,9 @@
+setuptools
+numpy
+matplotlib
+pandas
+requests
+pillow
+sentinelhub
+ultralytics
+folium
